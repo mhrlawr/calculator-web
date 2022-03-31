@@ -1,0 +1,71 @@
+.main-heading {
+    padding: 40px 0;
+    color: #ffffff;
+    margin-top: 100px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h2 {
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.heading p {
+    margin-bottom: 50px;
+}
+
+.social p {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.ion-social-instagram {
+    color: rgb(189, 0, 132);
+}
+
+.ion-social-linkedin {
+    color: #0e76a8;
+}
+
+.ion-social-twitter {
+    color: #00acee;
+}
+
+.ion-social-youtube {
+    color: #c4302b;
+}
+
+.main-heading .social {
+    text-align: center;
+    padding-bottom: 25px;
+    color: black;
+}
+
+.main-heading .social>a {
+    font-size: 24px;
+    width: 50px;
+    height: 50px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    margin: 0 8px;
+    color: inherit;
+    opacity: 0.5;
+}
+
+.main-heading .social>a:hover {
+    opacity: 1;
+}
+
+.main-heading .copyright {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 13px;
+    color: rgb(255, 255, 255);
+    margin-bottom: 0;
+}

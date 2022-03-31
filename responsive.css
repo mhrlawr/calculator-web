@@ -1,0 +1,30 @@
+@media screen and (max-width: 800px) {
+    
+    .calc-container {
+        width: 250px;
+        padding: 7px;
+    }
+
+    .calc-container table {
+        width: 100%;
+    }
+
+    .calc-container table tr td,
+    .calc-container table tr th {
+        width: 25%;
+        font-size: 16px;
+    }
+
+    .calc-container table tr th {
+        font-size: 20px;
+        padding: 20px 10px;
+    }
+
+    .heading h2 {
+        font-size: 24px;
+    }
+
+    .heading p {
+        font-size: 12px;
+    }
+}
